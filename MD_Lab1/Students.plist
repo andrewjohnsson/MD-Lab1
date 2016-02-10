@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<array>
+		<string>Балашко Анастасия</string>
+		<string>Грушевский Александр</string>
+		<string>Дворко Андрей</string>
+		<string>Елинский Назар</string>
+		<string>Зыков Константин</string>
+		<string>Иванов Андрей</string>
+		<string>Козорез Станислав</string>
+		<string>Крижановский Никита</string>
+		<string>Лазаренок Анастасия</string>
+		<string>Литвин Олег</string>
+		<string>Литвинчук Андрей</string>
+		<string>Лукин Алексей</string>
+		<string>Молотова Виктория</string>
+		<string>Нехай Вадим</string>
+		<string>Николаева Валерия</string>
+		<string>Полищук Дмитрий</string>
+		<string>Розум Егор</string>
+		<string>Сафонов Александр</string>
+		<string>Сиваков Александр</string>
+		<string>Стасюкевич Станислав</string>
+		<string>Тапунов Артем</string>
+		<string>Федоренко Владислав</string>
+		<string>Фёдоров Денис</string>
+		<string>Целищева Екатерина</string>
+		<string>Цивако Кирилл</string>
+		<string>Чечётко Александр</string>
+		<string>Шавейко Алексей</string>
+		<string>Шевчук Евгений</string>
+		<string>Шишов Сергей</string>
+		<string>Щербина Дина</string>
+	</array>
+	<key>location</key>
+	<array>
+		<string>ул. Гикало 9</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+		<string>хз</string>
+	</array>
+</dict>
+</plist>
